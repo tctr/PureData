@@ -10,3 +10,8 @@
 ```
 git clone https://github.com/tctr/PureDataExamples.git
 ```
+
+- ## Online Resources
+  - ### Miller Puckette's book (also in this repo)  [Theory of Electronic Music](https://msp.ucsd.edu/techniques.htm)
+
+  - ### Alexander Torres Porres's (ELSE library) [Live Electronics Journal](https://github.com/porres/Live-Electronics-Tutorial)

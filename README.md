@@ -11,7 +11,9 @@
 git clone https://github.com/tctr/PureDataExamples.git
 ```
 
-- ## Online Resources
-  - ### Miller Puckette's book (also in this repo)  [Theory of Electronic Music](https://msp.ucsd.edu/techniques.htm)
+- ## Online Resources (patches also in this repo)
+  - ### Miller Puckette's book  [Theory of Electronic Music](https://msp.ucsd.edu/techniques.htm)
 
   - ### Alexander Torres Porres's (ELSE library) [Live Electronics Journal](https://github.com/porres/Live-Electronics-Tutorial)
+
+  - ### Patches for Mike Moreno DSP videos  [Mike Moreno DSP patches](https://patchstorage.com/author/mikemorenodsp/) and [YT Channel](https://www.youtube.com/@MikeMorenoDSP)
